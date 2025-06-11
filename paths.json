@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/:/",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/configuration:/.helix/config.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/metadata:/metadata.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/configs:/configs.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/configs-stage:/configs-stage.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/configs-dev:/configs-dev.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/redirects:/redirects.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/placeholders:/placeholders.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/products/recommended-products:/products/recommended-products.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/vmendon/poonawalavmendon-2025-6-11-10-17-15",
       "/content/dam/citisignal/images/products/"
     ]
 }
